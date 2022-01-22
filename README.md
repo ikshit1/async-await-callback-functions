@@ -30,4 +30,4 @@
  ## But if a function returns a promise, JS won't make any transformation
 
 ## Await
- ### Waits for a promise, waits until it gets settled. It doesn't matter if it is resolved or reject
+ ### Waits for a promise until it gets settled. It doesn't matter if it is resolved or reject
